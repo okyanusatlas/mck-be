@@ -4,6 +4,7 @@
   "description": "API for the Calculator",
   "main": "index.js",
   "scripts": {
+    "start": "node index",
     "test": "npm run test"
   },
   "author": "Okyanus Atlas",
